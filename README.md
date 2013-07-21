@@ -1,0 +1,1 @@
+JAR is an IRC robot programmed in Ruby tailored to meet certain needs.
